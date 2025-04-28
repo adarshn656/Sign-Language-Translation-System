@@ -10,7 +10,7 @@ I developed a comprehensive system for sign language recognition, including:
 
 ## Status
 🔒 **Currently under review** for conference presentation.  
-The full code, models, and datasets will be made publicly available after acceptance and presentation to comply with conference and publication guidelines.
+The full code, models, and datasets will be made publicly available after acceptance and presentation.
 
 ## Stay Tuned
 This repository will be updated with:
