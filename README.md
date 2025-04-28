@@ -1,6 +1,6 @@
 # Sign Language Detection System
 
-This repository is associated with the research paper on **"Sign Language Detection Systems"**, submitted for conference presentations (2025).
+This repository is associated with the research paper on **Sign Language Detection Systems**, submitted for conference presentations (2025).
 
 ## Project Overview
 I developed a comprehensive system for sign language recognition, including:
