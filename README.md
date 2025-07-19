@@ -9,10 +9,8 @@ This repository accompanies the research paper **“A Deep Learning-Based Sign L
 This project introduces a multi-stage pipeline for sign language understanding, combining:
 
 - 🖼️ **Sign Detection & Classification**  
-  A custom image dataset was created and used to train a CNN-based classifier for static hand signs.
 
 - ✍️ **Gloss-to-English Translation**  
-  Fine-tuned a pre-trained **T5 language model** to convert detected glosses (sign annotations) into natural English sentences.
 
 - 🔄 **Vision-Language Integration**  
   The system integrates image-based predictions with language translation for real-time or batch sign interpretation.
