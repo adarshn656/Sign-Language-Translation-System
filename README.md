@@ -6,13 +6,9 @@ This repository accompanies the research paper **“A Deep Learning-Based Sign L
 
 ## 🧩 Project Overview
 
-This project introduces a multi-stage pipeline for sign language understanding, combining:
+This project introduces a multi-stage pipeline for sign language understanding.
 
-- 🖼️ **Sign Detection & Classification**  
-
-- ✍️ **Gloss-to-English Translation**  
-
-- 🔄 **Vision-Language Integration**  
+🔄 **Vision-Language Integration**  
   The system integrates image-based predictions with language translation for real-time or batch sign interpretation.
 
 ---
