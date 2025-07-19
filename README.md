@@ -6,7 +6,7 @@ This repository accompanies the research paper **“A Deep Learning-Based Sign L
 
 ## 🧩 Project Overview
 
-This project introduces a multi-stage pipeline for sign language understanding.
+This project introduces a pipeline for sign language understanding.
 
 🔄 **Vision-Language Integration**  
   The system integrates image-based predictions with language translation for real-time or batch sign interpretation.
